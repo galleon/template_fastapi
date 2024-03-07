@@ -1,7 +1,3 @@
-
-### FastAPI Service README.md
-
-```markdown
 # FastAPI Video Frame Converter Service
 
 This FastAPI service receives a video file, extracts the first frame, converts it to black and white, and sends the image back to the calling client, such as the Streamlit Video Frame Converter App.
